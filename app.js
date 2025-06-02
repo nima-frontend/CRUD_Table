@@ -163,7 +163,7 @@ function showInfo(){
                 <td>${staff.ageVal}</td>
                 <td>${staff.cityVal}</td>
                 <td>${staff.positionVal}</td>
-                <td>${staff.salaryVal}</td>
+                <td> $ ${staff.salaryVal}</td>
                 <td>${staff.sDateVal}</td>
                 <td>${staff.emailVal}</td>
                 <td>
