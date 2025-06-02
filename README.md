@@ -1,5 +1,5 @@
 # CRUD Table
-CRUD table using Local Storage
+CRUD table using Local Storage, Array methods along with search and pagination
 
 ## Click the Link for Demo 
 
